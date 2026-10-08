@@ -1,0 +1,186 @@
+{
+  "updated_at": "2026-10-08T03:10:11+00:00",
+  "sample": false,
+  "products": [
+    {
+      "id": "prov1",
+      "category": "Expendables",
+      "name": "Titleist Pro V1 (dozen)",
+      "par": 55,
+      "updated": "2026-10-07",
+      "offers": [
+        {
+          "store": "Sample Store C",
+          "price": 47.0,
+          "link": "",
+          "free_shipping": false
+        },
+        {
+          "store": "Sample Store A",
+          "price": 49.99,
+          "link": "",
+          "free_shipping": true
+        },
+        {
+          "store": "Sample Store B",
+          "price": 52.0,
+          "link": "",
+          "free_shipping": true
+        },
+        {
+          "store": "Sample Store D",
+          "price": 57.5,
+          "link": "",
+          "free_shipping": false
+        }
+      ]
+    },
+    {
+      "id": "chromesoft",
+      "category": "Expendables",
+      "name": "Callaway Chrome Soft (dozen)",
+      "par": 50,
+      "updated": "2026-10-08T03:10:11+00:00",
+      "offers": [
+        {
+          "store": "Sharp Golf Ball Co.",
+          "price": 30.99,
+          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=productid:1735535146066456552,headlineOfferDocid:1735535146066456552,imageDocid:7059759011375079544,rds:PC_7164919023704063404|PROD_PC_7164919023704063404,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": false
+        },
+        {
+          "store": "SwagWear",
+          "price": 40.97,
+          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=productid:17489621464198449346,headlineOfferDocid:17489621464198449346,imageDocid:15969876953015655796,rds:PC_12708466141239453938|PROD_PC_12708466141239453938,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": true
+        },
+        {
+          "store": "Award Maven",
+          "price": 41.37,
+          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=productid:9748811651004680521,headlineOfferDocid:9748811651004680521,imageDocid:13205427933066348908,rds:PC_1638559559635483303|PROD_PC_1638559559635483303,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": true
+        },
+        {
+          "store": "eBay - michigangolfcompany",
+          "price": 69.99,
+          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=productid:17196356352004024227,headlineOfferDocid:17196356352004024227,imageDocid:12915520466567018259,rds:PC_1493645984626219330|PROD_PC_1493645984626219330,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": true
+        },
+        {
+          "store": "eBay",
+          "price": 74.95,
+          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=productid:3492628861337528858,headlineOfferDocid:3492628861337528858,imageDocid:11867477608100391872,rds:PC_7164919023704063404|PROD_PC_7164919023704063404,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": false
+        },
+        {
+          "store": "eBay - kyle_55107",
+          "price": 206.42,
+          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=productid:1476002403060810520,headlineOfferDocid:1476002403060810520,imageDocid:5433408547157192446,rds:PC_2997566584694145643|PROD_PC_2997566584694145643,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": false
+        }
+      ]
+    },
+    {
+      "id": "qstar",
+      "category": "Expendables",
+      "name": "Srixon Q-Star Tour (dozen)",
+      "par": 40,
+      "updated": "",
+      "offers": []
+    },
+    {
+      "id": "qi10",
+      "category": "Clubs",
+      "name": "TaylorMade Qi10 Driver",
+      "par": 599,
+      "updated": "2026-10-07",
+      "offers": [
+        {
+          "store": "Sample Store B",
+          "price": 499.0,
+          "link": "",
+          "free_shipping": false
+        },
+        {
+          "store": "Sample Store A",
+          "price": 529.99,
+          "link": "",
+          "free_shipping": true
+        },
+        {
+          "store": "Sample Store D",
+          "price": 579.0,
+          "link": "",
+          "free_shipping": true
+        }
+      ]
+    },
+    {
+      "id": "rtx6",
+      "category": "Clubs",
+      "name": "Cleveland RTX 6 Zipcore Wedge",
+      "par": 169,
+      "updated": "",
+      "offers": []
+    },
+    {
+      "id": "prox3",
+      "category": "Gear",
+      "name": "Bushnell Pro X3 Rangefinder",
+      "par": 600,
+      "updated": "2026-10-07",
+      "offers": [
+        {
+          "store": "Sample Store A",
+          "price": 529.0,
+          "link": "",
+          "free_shipping": true
+        },
+        {
+          "store": "Sample Store C",
+          "price": 559.99,
+          "link": "",
+          "free_shipping": true
+        },
+        {
+          "store": "Sample Store D",
+          "price": 629.0,
+          "link": "",
+          "free_shipping": false
+        }
+      ]
+    },
+    {
+      "id": "hoofer",
+      "category": "Gear",
+      "name": "Ping Hoofer Stand Bag",
+      "par": 240,
+      "updated": "",
+      "offers": []
+    },
+    {
+      "id": "stasof",
+      "category": "Accessories",
+      "name": "FootJoy StaSof Glove",
+      "par": 25,
+      "updated": "",
+      "offers": []
+    },
+    {
+      "id": "s70",
+      "category": "Accessories",
+      "name": "Garmin Approach S70 GPS Watch",
+      "par": 600,
+      "updated": "",
+      "offers": []
+    },
+    {
+      "id": "victory",
+      "category": "Clothing",
+      "name": "Nike Dri-FIT Victory Polo",
+      "par": 70,
+      "updated": "",
+      "offers": []
+    }
+  ]
+}

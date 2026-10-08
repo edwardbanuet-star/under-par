@@ -1,0 +1,14 @@
+{
+  "products": [
+    {"id":"prov1","category":"Expendables","name":"Titleist Pro V1 (dozen)","query":"Titleist Pro V1 golf balls dozen","par":55,"must_include":["pro v1"],"exclude":["used","refinished","lake","practice"],"min_price":30},
+    {"id":"chromesoft","category":"Expendables","name":"Callaway Chrome Soft (dozen)","query":"Callaway Chrome Soft golf balls dozen","par":50,"must_include":["chrome soft"],"exclude":["used","refinished","lake"],"min_price":28},
+    {"id":"qstar","category":"Expendables","name":"Srixon Q-Star Tour (dozen)","query":"Srixon Q-Star Tour golf balls dozen","par":40,"must_include":["q-star"],"exclude":["used","refinished","lake"],"min_price":22},
+    {"id":"qi10","category":"Clubs","name":"TaylorMade Qi10 Driver","query":"TaylorMade Qi10 driver","par":599,"must_include":["qi10","driver"],"exclude":["headcover","head cover","shaft","used"],"min_price":250},
+    {"id":"rtx6","category":"Clubs","name":"Cleveland RTX 6 Zipcore Wedge","query":"Cleveland RTX 6 Zipcore wedge","par":169,"must_include":["rtx"],"exclude":["used","headcover"],"min_price":80},
+    {"id":"prox3","category":"Gear","name":"Bushnell Pro X3 Rangefinder","query":"Bushnell Pro X3 rangefinder","par":600,"must_include":["pro x3"],"exclude":["used","case","battery"],"min_price":300},
+    {"id":"hoofer","category":"Gear","name":"Ping Hoofer Stand Bag","query":"Ping Hoofer stand bag","par":240,"must_include":["hoofer"],"exclude":["used","rain hood"],"min_price":100},
+    {"id":"stasof","category":"Accessories","name":"FootJoy StaSof Glove","query":"FootJoy StaSof golf glove","par":25,"must_include":["stasof"],"exclude":["used"],"min_price":8},
+    {"id":"s70","category":"Accessories","name":"Garmin Approach S70 GPS Watch","query":"Garmin Approach S70 golf watch","par":600,"must_include":["s70"],"exclude":["band","strap","used"],"min_price":250},
+    {"id":"victory","category":"Clothing","name":"Nike Dri-FIT Victory Polo","query":"Nike Dri-FIT Victory golf polo","par":70,"must_include":["victory","polo"],"exclude":["kids","youth","womens","women's"],"min_price":20}
+  ]
+}
