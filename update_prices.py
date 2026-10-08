@@ -6,7 +6,7 @@ Reads products.json, searches the products that were updated longest ago
 No third-party packages needed.
 
 Usage:
-  SERPAPI_KEY=your_key python scripts/update_prices.py [--debug]
+  SERPAPI_KEY=your_key python /update_prices.py [--debug]
 """
 import json, os, sys, urllib.parse, urllib.request
 from datetime import datetime, timezone
