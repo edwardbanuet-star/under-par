@@ -1,0 +1,23 @@
+{
+  "weights": {"subscribers": 0.35, "sentiment": 0.30, "videos": 0.20, "age": 0.15},
+  "min_subscribers": 25000,
+  "min_videos": 50,
+  "min_age_years": 2,
+  "videos_per_channel": 5,
+  "seeds": [
+    {"name": "Me And My Golf"},
+    {"name": "Golf Sidekick"},
+    {"name": "Peter Finch Golf"},
+    {"name": "Danny Maude Golf"},
+    {"name": "Eric Cogorno Golf"},
+    {"name": "Clay Ballard Golf"},
+    {"name": "Chris Ryan Golf"},
+    {"name": "Break 90"},
+    {"name": "Golf Made Simple"},
+    {"name": "Mark Crossfield"},
+    {"name": "Scratch Golf Academy"},
+    {"name": "Rotary Swing Tour"},
+    {"name": "Athletic Motion Golf"},
+    {"name": "Rick Shiels Golf"}
+  ]
+}

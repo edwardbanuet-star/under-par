@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Under Par: ask a golf question</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,800&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#edf0e8;--card:#fbfcf8;--ink:#14231a;--mute:#5d6b60;--line:#c9d1c3;--green:#1f4d33;--red:#d03a2b;--hi:#e4efd9}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1a13;--card:#16241b;--ink:#e8efe3;--mute:#9bab9f;--line:#2b3c30;--green:#7fc79a;--red:#ff6b5a;--hi:#1d3626}}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/1.55 "Instrument Sans",system-ui,sans-serif;padding:env(safe-area-inset-top,0px) 0 env(safe-area-inset-bottom,0px)}
+.wrap{max-width:820px;margin:0 auto;padding:22px 18px 56px}
+.nav{display:flex;gap:16px;margin-bottom:18px;font-weight:600}
+.nav a{color:var(--mute);text-decoration:none;padding-bottom:2px}.nav a[aria-current]{color:var(--ink);border-bottom:2px solid var(--red)}
+h1{font:800 clamp(2.2rem,6vw,3.6rem)/.95 "Bricolage Grotesque",Georgia,serif;letter-spacing:-.03em;margin:0 0 10px}
+.sub{color:var(--mute);margin:0 0 18px}
+form{display:flex;gap:8px;flex-wrap:wrap}
+input{flex:1 1 280px;font:inherit;color:var(--ink);background:var(--card);border:1.5px solid var(--line);border-radius:8px;padding:11px 12px}
+button.go{font:600 1rem "Instrument Sans",sans-serif;background:var(--green);color:var(--bg);border:0;border-radius:8px;padding:11px 20px;cursor:pointer}
+:focus-visible{outline:3px solid var(--red);outline-offset:2px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0 22px}
+.chip{font:500 .88rem "Instrument Sans",sans-serif;color:var(--ink);background:transparent;border:1.5px solid var(--line);border-radius:99px;padding:5px 12px;cursor:pointer}
+.topic{background:var(--card);border:1.5px solid var(--ink);border-radius:4px;padding:18px 18px 8px;margin-bottom:18px}
+.topic h2{font:800 1.6rem/1.1 "Bricolage Grotesque",Georgia,serif;margin:0 0 8px}
+.take{background:var(--hi);border-radius:6px;padding:10px 14px;margin:12px 0}
+.take h3,.cl h3{margin:0 0 4px;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;color:var(--mute)}
+.take ul{margin:0;padding-left:20px}
+details{border-top:1px solid var(--line);padding:10px 0}
+summary{cursor:pointer;font-weight:600}
+.cat{font:600 .7rem "Instrument Sans",sans-serif;text-transform:uppercase;letter-spacing:.05em;color:var(--red);border:1.5px solid var(--red);border-radius:99px;padding:1px 8px;margin-right:8px}
+details p{margin:8px 0}
+.links{display:flex;flex-wrap:wrap;gap:6px 14px;font-size:.88rem;margin:6px 0 4px}
+.links a{color:var(--green)}
+.find{font-size:.88rem;color:var(--mute)}
+.none{background:var(--card);border:1.5px solid var(--line);border-radius:8px;padding:16px}
+.note{color:var(--mute);font-size:.84rem;margin-top:18px}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <nav class="nav" aria-label="Site"><a href="index.html">Deals</a><a href="learn.html" aria-current="page">Ask a golf question</a></nav>
+  <h1>Ask a golf question</h1>
+  <p class="sub">Describe a problem and get the likely causes, key takeaways, and links to learn more.</p>
+  <form id="f"><input id="q" type="search" placeholder="Why is my ball flight so low?" aria-label="Your golf question" autocomplete="off"><button class="go" type="submit">Find answers</button></form>
+  <div class="chips" id="chips" aria-label="Topics"></div>
+  <div id="out" aria-live="polite"></div>
+  <p class="note">General information, not a substitute for a lesson or club fitting. Links go to outside sites we don't control. Video and forum links are searches until specific ones are added.</p>
+</main>
+<script>
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safe=u=>/^https?:\/\//i.test(u||"")?u:"#";
+const STOP=new Set("a an the my i me is are am was do does did why how what when where can cant to of it its in on at for with and or but so be this that these those keep get getting just really very always often golf ball".split(" "));
+const stem=w=>w.length>4?w.replace(/(ing|ed|es|s|e)$/,""):w;
+const toks=s=>s.toLowerCase().replace(/[^a-z ]/g," ").split(/\s+/).filter(w=>w.length>1&&!STOP.has(w)).map(stem);
+const yt=q=>"https://www.youtube.com/results?search_query="+encodeURIComponent("golf "+q);
+const rd=q=>"https://www.reddit.com/r/golf/search/?q="+encodeURIComponent(q)+"&restrict_sr=1";
+const wrx=q=>"https://www.google.com/search?q="+encodeURIComponent("site:golfwrx.com "+q);
+let KB=[],TOP=[];
+const topRow=q=>TOP.length?`<div class="links"><span class="find">Search top instructors:</span>${TOP.slice(0,3).map(ch=>`<a href="https://www.youtube.com/channel/${esc(ch.id)}/search?query=${encodeURIComponent(q)}" target="_blank" rel="noopener">${esc(ch.title)}</a>`).join("")}</div>`:"";
+
+function rank(question){
+  const low=question.toLowerCase().replace(/[^a-z ]/g,""),qs=new Set(toks(question));
+  const scored=KB.map(t=>{let s=0;
+    for(const kw of t.keywords){
+      if(low.includes(kw))s+=4+kw.split(" ").length;
+      else{const ks=toks(kw);if(ks.length){const m=ks.filter(x=>qs.has(x)).length;if(m===ks.length)s+=2*m;else if(m)s+=.5*m}}}
+    return{t,s}}).sort((a,b)=>b.s-a.s);
+  const top=scored[0];
+  if(!top||top.s<2)return[];
+  return scored.filter((x,i)=>i===0||(i===1&&x.s>=.6*top.s&&x.s>=2)).map(x=>x.t);
+}
+function card(t){
+  const causes=t.causes.map(c=>{
+    const own=(c.links||[]).map(l=>`<a href="${esc(safe(l.u))}" target="_blank" rel="noopener">${esc(l.s)}: ${esc(l.t)}</a>`).join("");
+    return`<details open><summary><span class="cat">${esc(c.cat)}</span>${esc(c.title)}</summary><p>${esc(c.why)}</p><p><b>Try:</b> ${esc(c.try)}</p>
+<div class="links">${own}<a href="${esc(yt(c.q))}" target="_blank" rel="noopener">Find videos</a><a href="${esc(rd(c.q))}" target="_blank" rel="noopener">Reddit threads</a><a href="${esc(wrx(c.q))}" target="_blank" rel="noopener">GolfWRX threads</a></div>${topRow(c.q)}</details>`}).join("");
+  return`<section class="topic"><h2>${esc(t.title)}</h2><p>${esc(t.summary)}</p>
+<div class="take"><h3>Key takeaways</h3><ul>${t.takeaways.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>
+<div class="cl"><h3>Possible causes</h3>${causes}</div></section>`;
+}
+function ask(question){
+  const q=question.trim();if(!q){$("out").innerHTML="";return}
+  const hits=rank(q);
+  $("out").innerHTML=hits.length?hits.map(card).join("")+`<p class="find">Still stuck? Search for “${esc(q)}” on <a href="${esc(yt(q))}" target="_blank" rel="noopener">YouTube</a>, <a href="${esc(rd(q))}" target="_blank" rel="noopener">Reddit</a> or <a href="${esc(wrx(q))}" target="_blank" rel="noopener">GolfWRX</a>.</p>`
+   :`<div class="none"><p>We don't have a topic for that yet. Try one of the topics above, or search outside:</p><p class="find"><a href="${esc(yt(q))}" target="_blank" rel="noopener">YouTube</a> · <a href="${esc(rd(q))}" target="_blank" rel="noopener">Reddit</a> · <a href="${esc(wrx(q))}" target="_blank" rel="noopener">GolfWRX</a></p></div>`;
+}
+$("f").addEventListener("submit",e=>{e.preventDefault();ask($("q").value)});
+fetch("channels_ranked.json",{cache:"no-cache"}).then(r=>r.ok?r.json():null).then(j=>{TOP=((j&&j.channels)||[]).filter(ch=>/^UC[\w-]{20,}$/.test(ch.id))}).catch(()=>{});
+fetch("kb.json",{cache:"no-cache"}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}).then(j=>{
+  KB=j.topics||[];
+  $("chips").innerHTML=KB.map(t=>`<button class="chip" data-id="${esc(t.id)}">${esc(t.title.replace(/ \(.*/,""))}</button>`).join("");
+  $("chips").addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;const t=KB.find(x=>x.id===b.dataset.id);$("q").value=t.title.replace(/ \(.*/,"");$("out").innerHTML=card(t)});
+}).catch(()=>{$("out").innerHTML='<div class="none">Couldn\'t load kb.json. If you opened this file directly, serve the folder instead (python3 -m http.server 8000).</div>'});
+</script>
+</body>
+</html>

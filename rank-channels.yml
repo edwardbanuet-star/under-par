@@ -1,0 +1,29 @@
+name: Rank YouTube channels
+
+on:
+  schedule:
+    - cron: "23 8 * * 1"   # weekly, Mondays 08:23 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rank:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install vaderSentiment
+      - name: Rank channels
+        run: python scripts/rank_channels.py
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - name: Commit results
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add channels_ranked.json channel_ids.json
+          git diff --cached --quiet || (git commit -m "Update channel rankings" && git push)
