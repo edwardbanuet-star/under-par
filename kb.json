@@ -1,0 +1,68 @@
+{"topics":[
+{"id":"low-flight","title":"Ball flight is too low",
+ "keywords":["low ball flight","ball flight so low","ball flight is low","hit it low","hitting it low","hitting low","too low","low shots","low trajectory","low launch","not getting airborne","cant get it in the air","no height","ball wont go up","doesnt launch"],
+ "summary":"Launch height is mostly set by dynamic loft, the loft actually presented to the ball at impact, plus angle of attack, spin and speed. Low shots usually come from reducing that loft, from equipment that launches low, or from low-face strikes.",
+ "takeaways":["Dynamic loft, not the number stamped on the club, drives launch height.","Check setup first: ball position, hands and tee height are quick fixes.","If swing changes don't help, test loft, shaft and ball on a launch monitor."],
+ "causes":[
+ {"cat":"Setup","title":"Ball too far back or hands too far ahead","why":"Playing the ball back and pushing the hands well ahead of it takes loft off the clubface and flattens the launch.","try":"Play irons just forward of center and keep the hands only modestly ahead of the ball.","q":"golf ball position low ball flight",
+  "links":[{"t":"Why is my ball flight so low? (6 adjustments)","u":"https://mygolfspy.com/instruction/why-is-my-ball-flight-so-low-6-simple-adjustments-to-gain-height/","s":"MyGolfSpy"}]},
+ {"cat":"Swing","title":"Too little dynamic loft at impact","why":"If your body moves too far ahead of the ball, or you hit very steeply down, you reduce the loft at contact and the ball launches lower.","try":"Keep your head and chest behind the ball through impact. Swinging with your feet together can help you feel balance.","q":"dynamic loft low ball flight",
+  "links":[{"t":"How to hit the golf ball low (explains the impact factors)","u":"https://www.nationalclubgolfer.com/golf-tips/driving-tips/how-to-hit-the-golf-ball-low/","s":"National Club Golfer"}]},
+ {"cat":"Swing","title":"Driver teed too low or hit down on","why":"In one GolfWRX test, a lower tee gave less dynamic loft and a much lower flight than a higher tee.","try":"Tee the driver so about half the ball sits above the crown, and aim to catch it on a slight upswing.","q":"driver tee height angle of attack",
+  "links":[{"t":"Altering tee height influences your ball's trajectory","u":"https://golfwrx.com/111616/altering-tee-height-influences-your-balls-trajectory/","s":"GolfWRX"}]},
+ {"cat":"Equipment","title":"Loft or shaft launches too low for you","why":"A low-lofted head, or a stiff, heavy low-launch shaft, can keep launch down, especially at moderate swing speeds.","try":"Get a fitting or launch-monitor session. Compare more loft or a higher-launch shaft by carry distance, not feel.","q":"driver loft shaft launch too low fitting",
+  "links":[{"t":"Forum thread: launch, spin and dynamic loft","u":"https://forums.golfmonthly.com/threads/launch-or-spin.100052","s":"Golf Monthly forum"}]},
+ {"cat":"Ball","title":"Ball spins too little for your speed","why":"Too little spin makes shots stay low and fall short.","try":"Compare a softer, higher-spin ball with your current one and look at carry and height.","q":"golf ball too low spin which ball",
+  "links":[{"t":"Why is my ball flight so low? (see the equipment section)","u":"https://mygolfspy.com/instruction/why-is-my-ball-flight-so-low-6-simple-adjustments-to-gain-height/","s":"MyGolfSpy"}]},
+ {"cat":"Strike","title":"Hitting low on the face","why":"Contact toward the bottom of the face usually launches lower and spins differently than a center strike.","try":"Use impact tape or foot spray to see where you strike, then adjust ball position and posture.","q":"strike low on clubface impact tape"}]},
+
+{"id":"slice","title":"Slice (ball curves hard right for right-handers)",
+ "keywords":["slice","slicing","slicing the ball","ball curves right","ball goes right","banana ball","fade out of control","cant stop slicing"],
+ "summary":"A slice happens when the clubface is open to the swing path at impact, which adds sidespin. The path itself is often out-to-in, but the face-to-path gap is the main driver of the curve.",
+ "takeaways":["Face-to-path, not path alone, creates the curve.","Grip and aim are the cheapest fixes to try first.","A club that's too stiff, too long or badly fit can make it worse."],
+ "causes":[
+ {"cat":"Swing","title":"Face open to the path","why":"An open face at impact adds clockwise sidespin, so the ball starts right or straight and curves right.","try":"Work on squaring the face earlier through impact rather than only changing path.","q":"slice open clubface face to path"},
+ {"cat":"Swing","title":"Out-to-in swing path","why":"A path cutting across the ball from outside to inside, combined with an open face, produces the classic slice.","try":"Practice swinging out toward the right field on the way down, with an alignment stick as a guide.","q":"slice out to in swing path drill"},
+ {"cat":"Setup","title":"Weak grip or aim problems","why":"A grip turned too far left on the handle, or aim left of the target, encourages an open face and a cutting move.","try":"Strengthen the grip a little and check your feet, hips and shoulders are square to the target line.","q":"slice weak grip fix"},
+ {"cat":"Equipment","title":"Clubs that don't fit","why":"A shaft that's too stiff or a club that's too long or upright for you can make the face hard to square.","try":"Check shaft flex and length with a fitter, and consider a draw-biased driver while you work on the swing.","q":"driver slice shaft flex fitting"}]},
+
+{"id":"hook","title":"Hook (ball curves hard left for right-handers)",
+ "keywords":["hook","hooking","pull hook","duck hook","ball curves left","ball goes left","snap hook"],
+ "summary":"A hook comes from a clubface that's closed to the swing path. Too much in-to-out path, a very strong grip, or overactive hands can all create it.",
+ "takeaways":["Face closed to path is the cause; find out if path or face is the bigger issue.","A very strong grip is a common and easy check.","Equipment can add to it, but rarely causes it alone."],
+ "causes":[
+ {"cat":"Swing","title":"Face closed to the path","why":"If the face is more closed than the path at impact, the ball spins counter-clockwise and curves left.","try":"Hold the face more stable through impact and avoid flipping the hands over.","q":"hook closed clubface fix"},
+ {"cat":"Swing","title":"Very in-to-out path","why":"A path that swings far to the right can force the face to close to get the ball on target.","try":"Aim to swing a bit more toward the target line and watch for the club getting stuck behind you.","q":"hook in to out path"},
+ {"cat":"Setup","title":"Strong grip or ball too far back","why":"A grip turned far to the right, or the ball well back in the stance, tends to close the face.","try":"Neutralize the grip a little and move the ball toward the middle or front of the stance.","q":"hook strong grip ball position"},
+ {"cat":"Equipment","title":"Draw-biased or flat-lie clubs","why":"Draw-biased heads, a very whippy shaft, or lie angles that are too flat can exaggerate a left miss.","try":"Have a fitter check lie, shaft and head type.","q":"hooking driver lie angle shaft fitting"}]},
+
+{"id":"thin","title":"Thin shots (skulls, topped or low line drives)",
+ "keywords":["thin","thin shots","thinning","skull","skulled","topping","topped","hitting the top of the ball","blade the ball","bladed"],
+ "summary":"Thin shots happen when the club bottoms out above or past the ball, or the strike lands near the leading edge. The usual causes are standing up through the shot or a rising swing.",
+ "takeaways":["Most thin shots are caused by the body rising through impact.","Check ball position and posture before changing the swing.","A club that's the wrong length or lie can push the strike to the leading edge."],
+ "causes":[
+ {"cat":"Swing","title":"Standing up or early extension","why":"If your hips and chest rise toward the ball, the club moves up and catches the ball near the leading edge.","try":"Keep your posture angle through impact and feel your chest stay over the ball.","q":"thin shots early extension standing up"},
+ {"cat":"Setup","title":"Ball too far forward","why":"A ball too far forward in the stance makes it easier for the club to be rising by the time it arrives.","try":"Move the ball back a half to one ball width and check contact.","q":"thin shots ball position too far forward"},
+ {"cat":"Swing","title":"Weight hanging back or scooping","why":"Staying on the back foot and trying to lift the ball can make the club bottom out too early or rise at impact.","try":"Feel your weight move toward the lead side and let the loft do the lifting.","q":"thin shots weight back scooping"},
+ {"cat":"Equipment","title":"Wrong length or lie angle","why":"Clubs that are too long or too upright or flat for you can move the strike toward the leading edge.","try":"Get lie and length checked by a fitter.","q":"thin shots club length lie angle fitting"}]},
+
+{"id":"fat","title":"Fat shots (hitting the ground before the ball)",
+ "keywords":["fat","fat shots","fatty","chunk","chunking","chunked","hitting it fat","hit behind the ball","hitting behind the ball","hitting the ground first","duff","duffing"],
+ "summary":"Fat shots happen when the club's lowest point is behind the ball. Weight left behind, scooping, or a very steep swing are the usual reasons.",
+ "takeaways":["The low point of the swing needs to be at or just past the ball with irons.","Weight shift and ball position are the first things to check.","Bounce and turf conditions matter, especially with wedges."],
+ "causes":[
+ {"cat":"Swing","title":"Weight stays back","why":"If your weight stays on the trail side, the lowest point of the swing moves back behind the ball.","try":"Feel more pressure moving to the lead foot by impact, and practice with a half swing.","q":"fat shots weight shift low point"},
+ {"cat":"Swing","title":"Scooping or releasing early","why":"Flipping the hands to lift the ball makes the club bottom out early.","try":"Keep a bit of shaft lean at impact and let the club's loft launch the ball.","q":"fat shots early release scooping"},
+ {"cat":"Setup","title":"Ball too far forward","why":"A ball positioned well forward can leave the low point behind it with short irons and wedges.","try":"Play short irons and wedges near the middle of the stance.","q":"fat shots ball position wedges"},
+ {"cat":"Equipment","title":"Wrong bounce for the turf","why":"Too little bounce on soft turf, or the wrong grind for your swing, can make the club dig.","try":"Match wedge bounce to your swing and typical course conditions.","q":"wedge bounce fat shots soft turf"}]},
+
+{"id":"gaps","title":"Distance gaps between clubs",
+ "keywords":["distance gap","distance gaps","gapping","gap in my bag","yardage gap","big gap","clubs go the same distance","wedge gap","gap between irons","gaps between clubs"],
+ "summary":"Gaps show up when loft steps between clubs are uneven, or when you strike some clubs better than others. Fixing them starts with measuring real carry distances.",
+ "takeaways":["Measure carry for every club before buying anything.","Modern lofts are stronger, so wedge gaps are common.","Aim for fairly even steps, often around 10 to 15 yards between clubs."],
+ "causes":[
+ {"cat":"Equipment","title":"Uneven loft steps","why":"If the loft steps between clubs aren't consistent, the distance steps won't be either.","try":"List the loft of each club and look for gaps bigger than the rest.","q":"golf club loft gapping chart"},
+ {"cat":"Equipment","title":"Strong-lofted irons leave a wedge gap","why":"Many modern iron sets have a strong pitching wedge, which can leave a big gap to the next wedge.","try":"Consider adding a gap wedge or changing wedge lofts.","q":"wedge gap strong lofts gap wedge"},
+ {"cat":"Swing","title":"Inconsistent strikes","why":"If your contact varies, clubs that should differ by a set amount may overlap.","try":"Track average carry over 10 swings per club, not your best hit.","q":"golf club distance gapping launch monitor carry"},
+ {"cat":"Equipment","title":"Shafts that don't match through the set","why":"Mismatched shaft weight or flex between irons, hybrids and woods can change how each club performs.","try":"Check how your shafts transition, especially between irons and hybrids.","q":"golf shaft transition hybrids irons gapping"}]}
+]}
