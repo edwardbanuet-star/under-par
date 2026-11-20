@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T18:18:40+00:00",
+  "updated_at": "2026-11-20T17:50:27+00:00",
   "sample": false,
   "products": [
     {
@@ -8,71 +8,67 @@
       "name": "Titleist Pro V1 (dozen)",
       "par": 55,
       "summary": "",
-      "updated": "2026-11-19T18:18:40+00:00",
+      "updated": "2026-11-20T17:50:27+00:00",
       "offers": [
         {
           "store": "eBay",
-          "price": 39.99,
-          "link": "https://www.google.com/search?ibp=oshop&q=Titleist Pro V1 golf balls dozen&prds=catalogid:5423629825772673716,productid:2905249361934327765,headlineOfferDocid:1401305307943027474,imageDocid:15547525639143239412,rds:PC_5123184237312282649|PROD_PC_5123184237312282649,gpcid:5123184237312282649,mid:576462563306303102,pvt:hg&hl=en&gl=us&udm=28",
+          "price": 30.0,
+          "link": "https://www.google.com/search?ibp=oshop&q=Titleist Pro V1 golf balls dozen&prds=catalogid:3888807668538476225,productid:850539274880197105,headlineOfferDocid:15133536913579196164,imageDocid:1201143917095141978,rds:PC_7836389235091882244|PROD_PC_7836389235091882244,gpcid:7836389235091882244,mid:576462896433467196,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": false,
-          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRxnipZlB5rHhA_EILqyTbsygygZhi9haB2sDY3e8sPp9FlZ-H0tbY4R0WRNficm0QWbP2JCUYDaC0LKAWGis1QQITQtR3qBeFcd00Nsrw",
-          "rating": 3.8,
-          "reviews": 477
-        },
-        {
-          "store": "golfballs.at",
-          "price": 55.0,
-          "link": "https://www.google.com/search?ibp=oshop&q=Titleist Pro V1 golf balls dozen&prds=catalogid:1218314640997737030,productid:8513057080029447977,headlineOfferDocid:15524980938342254901,imageDocid:10121005387616577409,rds:PC_18142790132920954479|PROD_PC_18142790132920954479,gpcid:18142790132920954479,mid:576462890400396982,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": false,
-          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR79tdBw1s7FFugxPxAYB7FUiQmdriEQX60UVFWMj9Jdira1vthOlKBl18ia0yCohMtPA_JWA7UnG-kg5-lvT4-W5M0FsiMMNcyi7EzkpMD_H2dbjRoaQimFEi_",
-          "rating": 3.6,
-          "reviews": 87
-        },
-        {
-          "store": "Golf Headquarters",
-          "price": 57.99,
-          "link": "https://www.google.com/search?ibp=oshop&q=Titleist Pro V1 golf balls dozen&prds=catalogid:659407062773380331,productid:13378520348932296261,headlineOfferDocid:1085548424265075502,imageDocid:4660569424248462982,rds:PC_13346263371679070076|PROD_PC_13346263371679070076,gpcid:13346263371679070076,mid:576462882756485030,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": true,
-          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQn_JQoq-iPZ85NTffVL82cZ49vuHDS7B5CGPTmKF9XoaNF89rKWVEoIYYG4NmItX4VokktUr-5-GM8bBPK7odq4p_7BJCLolo1qWZkd5MweKYOr3tXWPD-",
-          "rating": 4.1,
-          "reviews": 232
-        },
-        {
-          "store": "eBay - vinthrive",
-          "price": 119.99,
-          "link": "https://www.google.com/search?ibp=oshop&q=Titleist Pro V1 golf balls dozen&prds=catalogid:16748604787426768393,productid:5870564151396463170,headlineOfferDocid:12524258237554021870,imageDocid:878381460064280186,rds:PC_9027281255735087812|PROD_PC_9027281255735087812,gpcid:9027281255735087812,mid:576462891237476106,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": true,
-          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQtTsWY_G9mGt_--9GzPAGWAdwBQ2QiOhSL1RRhKVkiRSa4yX6dXz2xq0_wQqrq4Nk8S1XW1FQN7KCJP4vP2v7Kwl3CSrxLF3qyxh-cpijNr2bAI05oHWAB",
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRvlJGetQlvEn3mTWdvSDwJSjO5-AmmSwX9nVbzoqmpt1J0kp5Yft7pnU4zemf2bIsms21x-jOZkZoOX-VklrqQ2hdZYJ2UnaxLUlGR2ug",
           "rating": 5.0,
-          "reviews": 86
+          "reviews": 189
         },
         {
-          "store": "Big Promotions",
-          "price": 468.25,
-          "link": "https://www.google.com/search?ibp=oshop&q=Titleist Pro V1 golf balls dozen&prds=productid:15698657098456633948,headlineOfferDocid:15698657098456633948,imageDocid:9158028733918725539,rds:PC_5414105122698244079|PROD_PC_5414105122698244079,pvt:hg&hl=en&gl=us&udm=28",
+          "store": "Digital On Demand",
+          "price": 40.0,
+          "link": "https://www.google.com/search?ibp=oshop&q=Titleist Pro V1 golf balls dozen&prds=productid:9567899812624445733,headlineOfferDocid:9567899812624445733,imageDocid:3895805027661652974,rds:PC_10018926586319850325|PROD_PC_10018926586319850325,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": false,
-          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRvlKS2vdBoghUuUz9Mai26IH4u5h0fPhbQBexYIJ-zmyVN4kCYx0q9WBQAr6pz02PhhQG4BtYlTfVPPG1TMvSc8gsNAPQjz_zXZTX2PPqPuLgsM7mFtHT5YQ",
-          "rating": 3.6,
-          "reviews": 134
-        },
-        {
-          "store": "Positive Promotions",
-          "price": 562.1,
-          "link": "https://www.google.com/search?ibp=oshop&q=Titleist Pro V1 golf balls dozen&prds=productid:5631006628928335358,headlineOfferDocid:5631006628928335358,imageDocid:1411425451849244495,rds:PC_65736945381510736|PROD_PC_65736945381510736,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": false,
-          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTHllucEdd0X2qqkPE9kmS55uyAO2VXLJzvoXPUW-wXqUl9PKcwAe1uB5zIPhNT8_A4JC9ygUKXplcrlI2ZP9N9SKPztGlWm32OCZ1XwJHrj6vZ6sK7mXjO-A",
-          "rating": 5.0,
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSlkNRqV6UGr_YhTg550l7q-8eLj_T7B5BEN4zW5k7dJFmMQMbNU_Pt290a2aWsgq3JIe2MAoSVjrvS0mkg8psAEpKJbLwumA",
+          "rating": 3.1,
           "reviews": 1
+        },
+        {
+          "store": "Worldwide Golf Shops",
+          "price": 52.99,
+          "link": "https://www.google.com/search?ibp=oshop&q=Titleist Pro V1 golf balls dozen&prds=catalogid:17125215451492871056,productid:3911435168309066977,headlineOfferDocid:6403703590820518635,imageDocid:2641070533309217349,rds:PC_9338465437259545504|PROD_PC_9338465437259545504,gpcid:9338465437259545504,mid:576462567113560237,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": true,
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQKqabyEALJ4boIMMeYR8ePi8kW_UyXLtjbFQ76d3Di3iLwRuQeZEMMhIwkntursP-TAAgDqRkBfvc803azlecAIrPJT1qS",
+          "rating": 3.1,
+          "reviews": 1
+        },
+        {
+          "store": "Stratford Partners",
+          "price": 55.0,
+          "link": "https://www.google.com/search?ibp=oshop&q=Titleist Pro V1 golf balls dozen&prds=catalogid:17296862417506396081,productid:16369456056265638332,headlineOfferDocid:5642064678862409485,imageDocid:16928176644718523354,gpcid:172803362470231227,mid:576462915866574077,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": false,
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR402p-M1dJbW5ZFuEgdc_errxbM3b_Qb6hycfoBIljCOZRoeHAj85xhaoPphY5bSI--bYkcAtGmDLD7uJfHyn-sRVWKnFRORj07FGBIiy6uzadka8jJe9NPQ",
+          "rating": null,
+          "reviews": null
+        },
+        {
+          "store": "4AllPromos.com",
+          "price": 55.51,
+          "link": "https://www.google.com/search?ibp=oshop&q=Titleist Pro V1 golf balls dozen&prds=productid:8637945589594598232,headlineOfferDocid:8637945589594598232,imageDocid:10267029716000587082,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": false,
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQwhX5engavCVAxW6aoPnh-mnyMBFuABZ_JKyKBp-uBL5aV9zUSnxs3MVpERkMddu4VMGoKT-qt2HOz3jbMBwdgyi2X9jQKeLE-Jc3CeKPQEJS25t8ndxNz_Q",
+          "rating": null,
+          "reviews": null
+        },
+        {
+          "store": "KCR Golf Store",
+          "price": 62.99,
+          "link": "https://www.google.com/search?ibp=oshop&q=Titleist Pro V1 golf balls dozen&prds=productid:1822339681727697953,headlineOfferDocid:1822339681727697953,imageDocid:17394700009015115078,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": true,
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSY0wL50mxUSn7AGc4NTyq4HeOG_XD7nT4vIf4sI2O1eTvy6pE0skwY0illYbs4WlBhhNl8FaNqjb1A2urYTLzcnK1l55c1",
+          "rating": null,
+          "reviews": null
         }
       ],
-      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRxnipZlB5rHhA_EILqyTbsygygZhi9haB2sDY3e8sPp9FlZ-H0tbY4R0WRNficm0QWbP2JCUYDaC0LKAWGis1QQITQtR3qBeFcd00Nsrw",
-      "rating": 3.9,
-      "reviews": 1017,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRvlJGetQlvEn3mTWdvSDwJSjO5-AmmSwX9nVbzoqmpt1J0kp5Yft7pnU4zemf2bIsms21x-jOZkZoOX-VklrqQ2hdZYJ2UnaxLUlGR2ug",
+      "rating": 5.0,
+      "reviews": 191,
       "history": [
-        {
-          "d": "2026-10-21",
-          "p": 30.0
-        },
         {
           "d": "2026-10-22",
           "p": 50.54
@@ -184,6 +180,10 @@
         {
           "d": "2026-11-19",
           "p": 39.99
+        },
+        {
+          "d": "2026-11-20",
+          "p": 30.0
         }
       ]
     },
@@ -193,71 +193,67 @@
       "name": "Callaway Chrome Soft (dozen)",
       "par": 50,
       "summary": "",
-      "updated": "2026-11-19T18:18:40+00:00",
+      "updated": "2026-11-20T17:50:27+00:00",
       "offers": [
         {
-          "store": "Golfballs.com",
-          "price": 29.99,
-          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=catalogid:17336220406881482574,productid:13141040350867418786,headlineOfferDocid:9488442027827899525,imageDocid:17173378597695081588,gpcid:6603578319305536885,mid:576462870023601705,pvt:hg&hl=en&gl=us&udm=28",
+          "store": "Denver Athletic",
+          "price": 41.99,
+          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=productid:12565270563965679669,headlineOfferDocid:12565270563965679669,imageDocid:8490086463784707587,rds:PC_3513032228250975709|PROD_PC_3513032228250975709,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": false,
-          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQHikxh_ulU_S1v9nz-o4SST5BhNnRU3WMXq2-jx-LBDq7i5gHpUyH5hA0FMpfBRIw0dAD88OkvZChokQXSZ36DvASRWEaWng",
-          "rating": null,
-          "reviews": null
-        },
-        {
-          "store": "eBay - readingisfun2",
-          "price": 30.0,
-          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=catalogid:15660136712678724255,productid:13088155840484579907,headlineOfferDocid:12535247233460650102,imageDocid:18051507959640423555,rds:PC_13003457513015391888|PROD_PC_13003457513015391888,gpcid:14058844351801213252,mid:576462860579281730,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": false,
-          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTHaNLUSkp7yOZPqaylzMyHvQ1RgmRKb6RHkIrUtccOVDZIdSs6frhI972dQsUagA01AbxB0j0OOyUK4aSN2R8cXFIcQcBQ0rq2UeGRlar5",
-          "rating": 4.5,
-          "reviews": 28
-        },
-        {
-          "store": "eBay - golfkingbrian",
-          "price": 35.0,
-          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=catalogid:7168162989276841306,productid:1674350116989049004,headlineOfferDocid:6620461851882734291,imageDocid:8097231799121175859,gpcid:8610723741898721360,mid:576462556061194566,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": false,
-          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQh9Z-sTjqW8jfOQgnD88Nkw3N6v-jhftrH5PGN_1g-N9v_enoCZv0L684bybUSmr_bcxP9JJ2sUUQaQ96WjXmB2BvOB-OKjUraHettOg8",
-          "rating": null,
-          "reviews": null
-        },
-        {
-          "store": "Wide World of Golf",
-          "price": 44.99,
-          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=catalogid:10427436607997764278,productid:4292845927949192430,headlineOfferDocid:7410741443009126406,imageDocid:17635038061451907130,rds:PC_5976480457952204770|PROD_PC_5976480457952204770,gpcid:5976480457952204770,mid:576462876916455484,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": true,
-          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTf0jQlVy2GLoH2TI8JbABmhvPxN6TA00lLyH1a93RCEuQtfR7yB-gsGW-KjGPMUMG1_Un8bQUye3ISijkDQ8xHeCaDCuzp",
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRK2OK1OgGi6F58ukolZ_DURbjx5CQV-6x6pbevJDiQNg0TY7sL8EW9tposWx_GWM-uTJVpXil6kJXVCBJ1mHTS2BV-uCP1bVkkCWnIYPblkIabLwuM6O4vXg",
           "rating": 4.9,
-          "reviews": 28
+          "reviews": 56
         },
         {
-          "store": "Scheels",
-          "price": 44.99,
-          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=catalogid:15580778555418182350,productid:13162362346124645101,headlineOfferDocid:4105437598667779686,imageDocid:15654265971651656564,rds:PC_1493645984626219330|PROD_PC_1493645984626219330,gpcid:1493645984626219330,mid:576462483316708527,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": true,
-          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRYn9O79njEr_npivTmeRgqhIIPXR90w1A8e-Fs15GMXrJK7-A5HWGBTrxzVIpnYQuLZeTZUP2ymS-fb4o8f3Ftp4mOeHjr9Q",
-          "rating": 4.7,
-          "reviews": 122
+          "store": "AD Specialty",
+          "price": 41.99,
+          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=productid:16512966160564988926,headlineOfferDocid:16512966160564988926,imageDocid:8490086463784707587,rds:PC_3513032228250975709|PROD_PC_3513032228250975709,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": false,
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRK2OK1OgGi6F58ukolZ_DURbjx5CQV-6x6pbevJDiQNg0TY7sL8EW9tposWx_GWM-uTJVpXil6kJXVCBJ1mHTS2BV-uCP1bVkkCWnIYPblkIabLwuM6O4vXg",
+          "rating": 4.9,
+          "reviews": 56
         },
         {
-          "store": "RELYmedia",
-          "price": 65.94,
-          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=productid:1645345469201175060,headlineOfferDocid:1645345469201175060,imageDocid:10811211151934717873,pvt:hg&hl=en&gl=us&udm=28",
+          "store": "Walmart - Mulligan Golf",
+          "price": 47.99,
+          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=productid:786170543417537777,headlineOfferDocid:786170543417537777,imageDocid:7302864769020274670,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": true,
-          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSYJ4KqpNXZRmSQKqO6mnkbYWzhGCQIijvIcPEHwNSJB-uLp2ieXlaFiKE63wXdtCmxg_WMu5r3P0orNksziY3yXxN2-lhByGf7n09mbu8ntdM3WKE-muZq",
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSCSPmg2FxVf92oYWTrqmOZnFpCfHwWgM-j4kBpPXLSwl-lXkXjp6mGG3fDQGteDK6sRK-tU5c4TIo0TEVrWc4CKzggBOUcHR1LsHGjkel2r0AvXecwIUrHUQ",
           "rating": null,
           "reviews": null
+        },
+        {
+          "store": "golfballs.at",
+          "price": 54.0,
+          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=productid:15276492622645380315,headlineOfferDocid:15276492622645380315,imageDocid:17943136198074569700,rds:PC_2788461450531987518|PROD_PC_2788461450531987518,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": false,
+          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSbUKTxBrfUE14Hw4-SkIHxhCvoaWBhWbzXXlD1uXO4X6L_ZeIDdLgDAfbapKM7n6zDwYjXyCfQEwVp5x660pTGfyy2uB92y5DFMGouqkMCDHHbNwuGQ81T1A",
+          "rating": 4.0,
+          "reviews": 175
+        },
+        {
+          "store": "Walmart - Golf Ball Manufacturers LLC",
+          "price": 56.99,
+          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=catalogid:4042885019840041445,productid:14642476228650208307,headlineOfferDocid:7747007168314595634,imageDocid:85374951279330771,rds:CID_4042885019840041445|PROD_CID_4042885019840041445,gpcid:17781861990495040078,mid:576462916318153046,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": true,
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQPe4FMAw9c0PWKBvlQCKTImZNIlLQJaJgOesVuZNOf_Id0lGrCrsAHoSJsZbIDdhEjjYjYYpq-IRB987TzgVjgYxx2c7p4spZcTxrF2CL5ROUT-S0h6eufPA",
+          "rating": 3.1,
+          "reviews": 81
+        },
+        {
+          "store": "eBay",
+          "price": 99.95,
+          "link": "https://www.google.com/search?ibp=oshop&q=Callaway Chrome Soft golf balls dozen&prds=productid:7061404985303905064,headlineOfferDocid:7061404985303905064,imageDocid:9575879231281195096,rds:PC_9865641717801014140|PROD_PC_9865641717801014140,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": false,
+          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTrUW9MSz8j4SAGyLzbsbecsLDgXSx7ca_vRej86pONCYilz9F3xqHm0EsQvWP6swA5Zp7XXI7HyRmUQRFggykDYoHTtdZkbjIiNNqXMSo",
+          "rating": 5.0,
+          "reviews": 1
         }
       ],
-      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQHikxh_ulU_S1v9nz-o4SST5BhNnRU3WMXq2-jx-LBDq7i5gHpUyH5hA0FMpfBRIw0dAD88OkvZChokQXSZ36DvASRWEaWng",
-      "rating": 4.7,
-      "reviews": 178,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRK2OK1OgGi6F58ukolZ_DURbjx5CQV-6x6pbevJDiQNg0TY7sL8EW9tposWx_GWM-uTJVpXil6kJXVCBJ1mHTS2BV-uCP1bVkkCWnIYPblkIabLwuM6O4vXg",
+      "rating": 4.1,
+      "reviews": 369,
       "history": [
-        {
-          "d": "2026-10-21",
-          "p": 28.0
-        },
         {
           "d": "2026-10-22",
           "p": 29.99
@@ -369,6 +365,10 @@
         {
           "d": "2026-11-19",
           "p": 29.99
+        },
+        {
+          "d": "2026-11-20",
+          "p": 41.99
         }
       ]
     },
@@ -378,71 +378,67 @@
       "name": "Srixon Q-Star Tour (dozen)",
       "par": 40,
       "summary": "",
-      "updated": "2026-11-19T18:18:40+00:00",
+      "updated": "2026-11-20T17:50:27+00:00",
       "offers": [
         {
-          "store": "eBay",
-          "price": 24.99,
-          "link": "https://www.google.com/search?ibp=oshop&q=Srixon Q-Star Tour golf balls dozen&prds=productid:10691030080514944918,headlineOfferDocid:10691030080514944918,imageDocid:418054039022931511,pvt:hg&hl=en&gl=us&udm=28",
+          "store": "Custom Grocery Bags",
+          "price": 22.45,
+          "link": "https://www.google.com/search?ibp=oshop&q=Srixon Q-Star Tour golf balls dozen&prds=productid:3680450620749548588,headlineOfferDocid:3680450620749548588,imageDocid:3679377162800311849,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": false,
-          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSu20LzuGec0AJ9p83B2RzCDsDS7fihPrvGt8ONhZwHMXMh4RIXKMomZoRNaCUfg1XyPqVNeWNKgJ2cE3k5nUZdhoIgJqu2wUPugR3x-Q64",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRX_c0NiiJyROCbf9H_6ExnrOchq-G2m3e0oK3Pos41TH8ptB-lsIlDUQEdKzVGHx6e_jL4mM87EySih77s7zHPOLWhQ3XhRdFxinmzvwYMQ9Phgb4CpMYD",
           "rating": null,
           "reviews": null
         },
         {
-          "store": "eBay - thisandthat564",
-          "price": 25.0,
-          "link": "https://www.google.com/search?ibp=oshop&q=Srixon Q-Star Tour golf balls dozen&prds=productid:3913455573118146563,headlineOfferDocid:3913455573118146563,imageDocid:772448949590748182,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": false,
-          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQqugfgwXanjuUDhDz6q43gIi8I69b03maLKkfcU47l4YC0afjv2hUaEl9Yu6dgW9siyG-IRIeF4PwcOE-PSE4mof3_NP-RE2K5nyghvzh15FMWNAnN_Gpq",
-          "rating": null,
-          "reviews": null
-        },
-        {
-          "store": "Golf Country Online",
+          "store": "DICK'S Sporting Goods",
           "price": 29.99,
-          "link": "https://www.google.com/search?ibp=oshop&q=Srixon Q-Star Tour golf balls dozen&prds=catalogid:11729008399839229882,productid:17804386390158577096,headlineOfferDocid:6588739554153173615,imageDocid:1214248278829454857,rds:PC_5453619393563412001|PROD_PC_5453619393563412001,gpcid:5453619393563412001,mid:576462889435602015,pvt:hg&hl=en&gl=us&udm=28",
+          "link": "https://www.google.com/search?ibp=oshop&q=Srixon Q-Star Tour golf balls dozen&prds=catalogid:16065768687048084452,productid:17472441238258336037,headlineOfferDocid:4619011907953575802,imageDocid:14944764956614606470,rds:PC_15372200380819218786|PROD_PC_15372200380819218786,gpcid:15994676470342722375,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": false,
-          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRYVVPlBTic39avH4OFMukMpz8tYRbpel36TwiaqnZmrKvbmlhmajlnn9fmonQbScAFvEyrjjFHWtoCyM_Dz_hVwxM5DKCKnfIf1g8-9VuU",
-          "rating": 5.0,
-          "reviews": 255
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRKcQTpjtXAtHJxhacCj122N9isEmImAo1XCDt4bypatrs6lFBzMhZg7FLYaDC-wlvJ5usBUoliWnKsFAT6PLNeW7RO6D70J0GlJTrJ7s27o3HEMGQ3qLaJ",
+          "rating": 4.7,
+          "reviews": 378
         },
         {
-          "store": "Fairway Golf USA",
+          "store": "PGA TOUR Superstore",
           "price": 29.99,
-          "link": "https://www.google.com/search?ibp=oshop&q=Srixon Q-Star Tour golf balls dozen&prds=productid:13312638412954873934,headlineOfferDocid:13312638412954873934,imageDocid:9905212140317225622,pvt:hg&hl=en&gl=us&udm=28",
+          "link": "https://www.google.com/search?ibp=oshop&q=Srixon Q-Star Tour golf balls dozen&prds=catalogid:6350091206502576942,productid:809544539280043813,headlineOfferDocid:6166661837062561376,imageDocid:16420002458157776355,rds:PC_4479661538727473716|PROD_PC_4479661538727473716,gpcid:4479661538727473716,mid:576462882724723094,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": false,
-          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQw3yRIjSJZg3cEKyk5Yr6HRr9cmwc3rbAIRyxzMwEEjgOJnJlVvJ0ZxpCzo8hqm4QgqgFzxlwo3JLYsAHjrjhZhVDJCJAGjA",
-          "rating": null,
-          "reviews": null
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSXGe1G6bN0zK3I9EnIVu4ATJnjcIAbduF6qxzVEuuQDmW5smVnCEVVB0SO0QhJQgIyGbtSQYZl69OynmSjZoWXtS_rKNLDdiZzPFzQlmmhOQKscnMlJD4j",
+          "rating": 4.6,
+          "reviews": 93
         },
         {
-          "store": "eBay - airmansghan",
-          "price": 39.89,
-          "link": "https://www.google.com/search?ibp=oshop&q=Srixon Q-Star Tour golf balls dozen&prds=productid:16112885181464584056,headlineOfferDocid:16112885181464584056,imageDocid:9994620170234974315,pvt:hg&hl=en&gl=us&udm=28",
+          "store": "Walmart",
+          "price": 30.41,
+          "link": "https://www.google.com/search?ibp=oshop&q=Srixon Q-Star Tour golf balls dozen&prds=catalogid:17939859295314818443,productid:3288198544204389170,headlineOfferDocid:5943852242369418587,imageDocid:12268573317096536609,rds:PC_11328596067182021126|PROD_PC_11328596067182021126,gpcid:11328596067182021126,mid:576462566351501520,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": false,
-          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTBVROTmlavB7r4CD-uu1PXTNXTIhRQkczGaFJstb6TXKywhgvygpwR_ID_aUcvXemxYMch3ji2IVJKrN4CwJb1caFoXPK4uL5MuNcCZ4Z7KuBJaBhKtvkQ",
-          "rating": null,
-          "reviews": null
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcROuIiXs6Gusz5WIh1haZH9lszG2N73udwdxmenRd4XD_bJsfIhaItW9ttDewSpTf10AlyJdQqaJx1tww6GzDL9III_CJyFZg-SuwcX_NkQcCwAUIyW3cY9",
+          "rating": 4.5,
+          "reviews": 65
         },
         {
-          "store": "eBay - globalgolf",
-          "price": 39.99,
-          "link": "https://www.google.com/search?ibp=oshop&q=Srixon Q-Star Tour golf balls dozen&prds=catalogid:10805218077200208915,productid:5275042217351932312,headlineOfferDocid:12970009313726487954,imageDocid:14545234693312846862,rds:PC_1709573447888720236|PROD_PC_1709573447888720236,gpcid:1709573447888720236,mid:576462550666985025,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": false,
-          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTqBnTXAM4uVvGRhOsRAgRFIBfadYU0QcXzGW8qcA_uD4FeSMb_2U6fMggpO98xIo13xc5jsc15r3FBVRJvTB3tsgAX2otpWCLyIlF0RBLKql-er-wFocRA",
+          "store": "AlpineShopVT.com",
+          "price": 34.99,
+          "link": "https://www.google.com/search?ibp=oshop&q=Srixon Q-Star Tour golf balls dozen&prds=productid:18113631592598598912,headlineOfferDocid:18113631592598598912,imageDocid:15138902601175741905,rds:PC_1656999742720168766|PROD_PC_1656999742720168766,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": true,
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7ieDCCyNWXFP5MhJExKQSaWFx5LpcneFNrr8IuBf0mHBqOuEFSEY080wORV4B7aojQYVLoyrbEeFNuCTB4W3EYzq6RCeN8npec8d8gx4AcL6j6Hnf07kp",
           "rating": 4.8,
-          "reviews": 167
+          "reviews": 893
+        },
+        {
+          "store": "Golfballs.com",
+          "price": 34.99,
+          "link": "https://www.google.com/search?ibp=oshop&q=Srixon Q-Star Tour golf balls dozen&prds=catalogid:16103907698394319750,productid:12053745244767429780,headlineOfferDocid:7973147877774882924,imageDocid:116354412832219643,rds:PC_811568827889656017|PROD_PC_811568827889656017,gpcid:811568827889656017,mid:576462896482835024,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": false,
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRACtIcAjXP-l8K6tej8O_D2pAPn4kwji-dLXEqtBSSdj_-f4gkJre6F5NH1hVw_QEi0PyS5JJo31FiTl9t2FYUIRAZ6DjymTuZo3VzRlDqTNIzAbo3Q4U7LQ",
+          "rating": 5.0,
+          "reviews": 11
         }
       ],
-      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSu20LzuGec0AJ9p83B2RzCDsDS7fihPrvGt8ONhZwHMXMh4RIXKMomZoRNaCUfg1XyPqVNeWNKgJ2cE3k5nUZdhoIgJqu2wUPugR3x-Q64",
-      "rating": 4.9,
-      "reviews": 422,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRX_c0NiiJyROCbf9H_6ExnrOchq-G2m3e0oK3Pos41TH8ptB-lsIlDUQEdKzVGHx6e_jL4mM87EySih77s7zHPOLWhQ3XhRdFxinmzvwYMQ9Phgb4CpMYD",
+      "rating": 4.7,
+      "reviews": 1440,
       "history": [
-        {
-          "d": "2026-10-21",
-          "p": 26.97
-        },
         {
           "d": "2026-10-22",
           "p": 30.8
@@ -554,6 +550,10 @@
         {
           "d": "2026-11-19",
           "p": 24.99
+        },
+        {
+          "d": "2026-11-20",
+          "p": 22.45
         }
       ]
     },
@@ -563,53 +563,31 @@
       "name": "TaylorMade Qi10 Driver",
       "par": 599,
       "summary": "",
-      "updated": "2026-11-19T18:18:40+00:00",
+      "updated": "2026-11-20T17:50:27+00:00",
       "offers": [
         {
-          "store": "Exclusive.Shopping.Japan",
-          "price": 329.0,
-          "link": "https://www.google.com/search?ibp=oshop&q=TaylorMade Qi10 driver&prds=catalogid:13393696716806902095,productid:10674470992941942381,headlineOfferDocid:18431000159866166542,imageDocid:1684387741513817290,rds:PC_16384493179724681903|PROD_PC_16384493179724681903,gpcid:5692557015736006264,mid:576462917241740609,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": false,
-          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDFPbp9wUem0IsuJynQdQUOa5qaYQ7JuD8GcTJ78zvyE-q-5Zx6pR_R-XuI5GgNngSCd_TZCcoXInEd45Nc4dYIRkQfcy70LYpM75dy2jvOWSRgf6baHqw",
-          "rating": 4.6,
-          "reviews": 30
-        },
-        {
-          "store": "Fairway Golf USA",
-          "price": 339.95,
-          "link": "https://www.google.com/search?ibp=oshop&q=TaylorMade Qi10 driver&prds=productid:16160683426137944029,headlineOfferDocid:16160683426137944029,imageDocid:15545482126660370234,rds:PC_1108254606731931051|PROD_PC_1108254606731931051,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": false,
-          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRAIOwNLOigWvNijSQNsrF_55-AfDvlkF3t73GGVqQuQsPNbk4unXvag4uI5N0szqzHvqpoRri0x2vGfDoDU6EQQSZgrNz6y8znjU7ze4_MB2GUJuNAAZlbig",
-          "rating": 4.8,
-          "reviews": 6
-        },
-        {
-          "store": "Walmart - Seller",
-          "price": 357.0,
-          "link": "https://www.google.com/search?ibp=oshop&q=TaylorMade Qi10 driver&prds=productid:15439406488515386079,headlineOfferDocid:15439406488515386079,imageDocid:3410034279285421874,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": true,
-          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS4ciFavACw0ovCUMfZWwW34gGaoFlr-JyXCei5E769gLZREkoyCh7MEX31WWDeg1J8HI8209DDqmWtBrcOIiB5bt5lSq2O",
-          "rating": null,
-          "reviews": null
-        },
-        {
           "store": "Golf Deals and Steals",
-          "price": 399.99,
-          "link": "https://www.google.com/search?ibp=oshop&q=TaylorMade Qi10 driver&prds=catalogid:6744119433703667323,productid:13224287547252096412,headlineOfferDocid:15646166691795782872,imageDocid:11278229986475618870,rds:PC_16890756795134321231|PROD_PC_16890756795134321231,gpcid:13245114794894688284,pvt:hg&hl=en&gl=us&udm=28",
+          "price": 349.99,
+          "link": "https://www.google.com/search?ibp=oshop&q=TaylorMade Qi10 driver&prds=productid:9958688110365503037,headlineOfferDocid:9958688110365503037,imageDocid:6915074820752795627,rds:PC_17697752857892815498|PROD_PC_17697752857892815498,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": false,
-          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRQGL_CBgKbsY4Tx7pp6Pj4WdsXABjjQMhP87YOwedDHWnKj9V0B-s_9ptzBnGig4dQKoP566lM3dKJ2HSr-GMnwlx7CkUYOsF1halYTKPq3_wIqGNtmXr3",
-          "rating": 4.8,
-          "reviews": 1200
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSdIhH5Qa1-HfL2YDRzjvYZLMpyUztEFfdaLIe6GDHPzEZoB8YQJPZW6locHS-hZYEEob97JaEXJptBPhAg-VLWLQgASywAi-L2lS6yc7-O",
+          "rating": 5.0,
+          "reviews": 861
+        },
+        {
+          "store": "eBay - golfdealsandsteals1",
+          "price": 399.99,
+          "link": "https://www.google.com/search?ibp=oshop&q=TaylorMade Qi10 driver&prds=productid:10958281401868798618,headlineOfferDocid:10958281401868798618,imageDocid:13386265009842456834,rds:PC_16890756795134321231|PROD_PC_16890756795134321231,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": false,
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTMWMJ4tI7pQ7BxdLzb0vcj6rqQcv-cW3L6A-qekS2ky88aeEB7IkE7V5o7k16t-Kpl2vy_Efat4OGRBgWhsjHrQpImC1ri3MxipzH7wFMg",
+          "rating": 5.0,
+          "reviews": 958
         }
       ],
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQDFPbp9wUem0IsuJynQdQUOa5qaYQ7JuD8GcTJ78zvyE-q-5Zx6pR_R-XuI5GgNngSCd_TZCcoXInEd45Nc4dYIRkQfcy70LYpM75dy2jvOWSRgf6baHqw",
-      "rating": 4.8,
-      "reviews": 1236,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSdIhH5Qa1-HfL2YDRzjvYZLMpyUztEFfdaLIe6GDHPzEZoB8YQJPZW6locHS-hZYEEob97JaEXJptBPhAg-VLWLQgASywAi-L2lS6yc7-O",
+      "rating": 5.0,
+      "reviews": 1819,
       "history": [
-        {
-          "d": "2026-10-21",
-          "p": 255.99
-        },
         {
           "d": "2026-10-22",
           "p": 267.99
@@ -721,6 +699,10 @@
         {
           "d": "2026-11-19",
           "p": 329.0
+        },
+        {
+          "d": "2026-11-20",
+          "p": 349.99
         }
       ]
     },
@@ -730,14 +712,14 @@
       "name": "Cleveland RTX 6 Zipcore Wedge",
       "par": 169,
       "summary": "",
-      "updated": "2026-11-19T18:18:40+00:00",
+      "updated": "2026-11-20T17:50:27+00:00",
       "offers": [
         {
           "store": "playitagainsports.com",
           "price": 119.99,
           "link": "https://www.google.com/search?ibp=oshop&q=Cleveland RTX 6 Zipcore wedge&prds=productid:3729751167667887819,headlineOfferDocid:3729751167667887819,imageDocid:13177782387885869049,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": false,
-          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQtf-ObMy4wWZMJBAcbAT9cNSQRXfQoso0MWIbDazl3fCj8-GFqivSIoGDXeFDXSDaAcPAsVoHg1Wo1zcdrq3buHoXc1DFb",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTaeJqjThMfYHJt4yCUn9IqdCIPoKdUQOa71uEGYb5ngd0Alq0QWKVHuo_qYnL0uuCBcB_XDvwf1_7oCzc6Jj4SVU0bLG7PkMhnbOHacJIAYnZqFqZdfwcY",
           "rating": null,
           "reviews": null
         },
@@ -746,28 +728,42 @@
           "price": 126.0,
           "link": "https://www.google.com/search?ibp=oshop&q=Cleveland RTX 6 Zipcore wedge&prds=productid:13409876299745073601,headlineOfferDocid:13409876299745073601,imageDocid:5941020122392771297,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": false,
-          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQJ3QZNM5o_tEj_IUnKZcyAlO3r3Co3Z7v9nJ5sRT1PwvCBCl6HN1s1M8-I5oRf8RW214cYiUQIcKWp42M5P5qSFMbRUbumLbLlIqoSOPzZ3zZjSVK50miYhA",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT3ZxMfPNGlLvIVB9KnFN6zga6zb1o-xfmJtkFhnXsb37vaNlm14xerS0whlOaayfD0IZniuOR2octgLT69f8lu4br_CZWChm-Krj3myBO67lXaTLLX3hQptA",
           "rating": null,
           "reviews": null
         },
         {
-          "store": "TGW",
+          "store": "DICK'S Sporting Goods",
           "price": 129.99,
-          "link": "https://www.google.com/search?ibp=oshop&q=Cleveland RTX 6 Zipcore wedge&prds=catalogid:11169328009179052513,productid:7834600998236827543,headlineOfferDocid:10818140436784460038,imageDocid:6862515216403231490,rds:PC_720031502158316412|PROD_PC_720031502158316412,gpcid:17342905331977728167,pvt:hg&hl=en&gl=us&udm=28",
+          "link": "https://www.google.com/search?ibp=oshop&q=Cleveland RTX 6 Zipcore wedge&prds=catalogid:7963351836010510409,productid:170997113451098259,headlineOfferDocid:562837077963860174,imageDocid:12885815786844907786,rds:PC_720031502158316412|PROD_PC_720031502158316412,gpcid:16592011784458628089,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": false,
-          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRFRmv251Txki3WPk8Wl3-ZYf_CPvcutyt8oBHKw36_HQqGtLtqgfRZwtIp-nVspiFIQhCK28ok33HZYJ3RNG3XD3t8wqDw",
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOky5endNipotGif0KwlG06HDV7R95Swn_KxBBt9_nyQvEOD0XsTFzpQfXK9qvCfYAsC6efbLE5fU29XdmBP_xt7K0BrVTAkaE9NSYff4",
+          "rating": 3.0,
+          "reviews": 768
+        },
+        {
+          "store": "Cleveland Golf",
+          "price": 129.99,
+          "link": "https://www.google.com/search?ibp=oshop&q=Cleveland RTX 6 Zipcore wedge&prds=catalogid:6158725784315698202,productid:290710899799982163,headlineOfferDocid:6014971854899043950,imageDocid:16747814029208119459,rds:PC_720031502158316412|PROD_PC_720031502158316412,gpcid:16592011784458628089,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": true,
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRlf8NQPMk-Z47pC80fwlJj6krKQ0aOU8fcUp4k8sxgEFQk4UX69uyfUmB1EJJbaFwsSEbK87G-sxySTISzF0OkV_XuwTe_elM_uaxPah-Aj0d9e0TRTbApdw",
           "rating": 5.0,
-          "reviews": 1000
+          "reviews": 767
+        },
+        {
+          "store": "eBay - twogrooveslow",
+          "price": 339.99,
+          "link": "https://www.google.com/search?ibp=oshop&q=Cleveland RTX 6 Zipcore wedge&prds=productid:5371450060382977310,headlineOfferDocid:5371450060382977310,imageDocid:11694146681258527380,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": true,
+          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRDRMHYU8_Kn21d7BR0nqJxTJp6NS1xKPop7jvz4FWfYLKUOMfkBn7F3ESnMlWEkTolNuRLqd46YPo9gz540_Iw3imZ-faLhSUUW7Ou_FA",
+          "rating": null,
+          "reviews": null
         }
       ],
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQtf-ObMy4wWZMJBAcbAT9cNSQRXfQoso0MWIbDazl3fCj8-GFqivSIoGDXeFDXSDaAcPAsVoHg1Wo1zcdrq3buHoXc1DFb",
-      "rating": 5.0,
-      "reviews": 1000,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTaeJqjThMfYHJt4yCUn9IqdCIPoKdUQOa71uEGYb5ngd0Alq0QWKVHuo_qYnL0uuCBcB_XDvwf1_7oCzc6Jj4SVU0bLG7PkMhnbOHacJIAYnZqFqZdfwcY",
+      "rating": 4.0,
+      "reviews": 1535,
       "history": [
-        {
-          "d": "2026-10-21",
-          "p": 89.0
-        },
         {
           "d": "2026-10-22",
           "p": 90.0
@@ -875,6 +871,10 @@
         {
           "d": "2026-11-19",
           "p": 119.99
+        },
+        {
+          "d": "2026-11-20",
+          "p": 119.99
         }
       ]
     },
@@ -884,16 +884,25 @@
       "name": "Bushnell Pro X3 Rangefinder",
       "par": 600,
       "summary": "",
-      "updated": "2026-11-19T18:18:40+00:00",
+      "updated": "2026-11-20T17:50:27+00:00",
       "offers": [
         {
           "store": "GreenTee Golf Shop",
-          "price": 464.0,
+          "price": 463.0,
           "link": "https://www.google.com/search?ibp=oshop&q=Bushnell Pro X3 rangefinder&prds=catalogid:17693669730533934010,productid:7971565978088057808,headlineOfferDocid:15497112736378390003,imageDocid:13294418710897688767,rds:PC_5920501694966156741|PROD_PC_5920501694966156741,gpcid:5920501694966156741,mid:576462777187143538,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": true,
-          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR4PHsLB5FgGrVZGJIEfaJQzqURK5Q0vz03ONwH5nrBp5j-UMuaxXAEc9xYBZnNRWct_om3-5EY7_H2m2dv8PFhHrhFerJ3sGCQdC6On4PjwqKOyVBXNNwK9qA",
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQonSc_7XpnG4hMjhyP5r6mMLyT51lRd5QgXutdQt3zZb73bYq5XU7KRRFJtagDXUyEb1wdSuPSNM2J8e5EvQKQ4QkRCK3e-M_NVsLN6rnvufEY9eBX72lecQ",
           "rating": 3.9,
-          "reviews": 280
+          "reviews": 281
+        },
+        {
+          "store": "Fairway Jockey",
+          "price": 499.99,
+          "link": "https://www.google.com/search?ibp=oshop&q=Bushnell Pro X3 rangefinder&prds=catalogid:9593816840136289681,productid:15060635063875677275,headlineOfferDocid:17243257410672047878,imageDocid:10655624518304531617,rds:PC_15552617238531330470|PROD_PC_15552617238531330470,gpcid:15552617238531330470,mid:576462563286884059,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": true,
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSld4lXTkDjb_aflJY0adCH7ruI2fDVMsWIg7CkGfvgUUt-KZxjG07rqvUPmORTwXZtDSUv8g6vNMyEuJS_QfQYKRdO0DgbpMmw1q-SIR-LwZW_Po7KjRmY_w",
+          "rating": 4.6,
+          "reviews": 17
         },
         {
           "store": "Morton Golf Sales",
@@ -906,10 +915,10 @@
         },
         {
           "store": "wafuu.com",
-          "price": 510.0,
-          "link": "https://www.google.com/search?ibp=oshop&q=Bushnell Pro X3 rangefinder&prds=catalogid:16690814838878136362,productid:3975367976892703059,headlineOfferDocid:7457389543670924946,imageDocid:3314707588096163640,rds:PC_16373382960113584058|PROD_PC_16373382960113584058,gpcid:16373382960113584058,mid:576462433909673501,pvt:hg&hl=en&gl=us&udm=28",
+          "price": 513.0,
+          "link": "https://www.google.com/search?ibp=oshop&q=Bushnell Pro X3 rangefinder&prds=productid:17442449583182206380,headlineOfferDocid:17442449583182206380,imageDocid:3314707588096163640,rds:PC_16373382960113584058|PROD_PC_16373382960113584058,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": false,
-          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT4tRLUz-ZfrQhWZNhnTNheBdD1I7yQxW5T5t2BQF-v2QPFb0mnglo4pddghAYXlqkGmiLglhGKCa4IxeJqeRdmq_Rysn7aCB0iyPuKTGqw7cLiRzVKIl2I",
+          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRqL8WErtRgzgliGo104r-aDPP7J5s5TzFvhGbQvq-d0eIMSTNJ27MuMxeQtZvuuTg9zaiitnyfPWcF1CAFVDnIaIvUhLw2UhM-wZAAT-pPaL9rLZvbJm7x",
           "rating": 4.8,
           "reviews": 24
         },
@@ -918,7 +927,7 @@
           "price": 514.99,
           "link": "https://www.google.com/search?ibp=oshop&q=Bushnell Pro X3 rangefinder&prds=productid:9294216360207864846,headlineOfferDocid:9294216360207864846,imageDocid:2655516231256805237,rds:PC_15552617238531330470|PROD_PC_15552617238531330470,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": true,
-          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTaadqkB-PuS0wSXDwQIIRlRFQwWpnjpKAPseXlxtVKYdYDjKEuHR1db-a2HUukbg4pkbpMYzzwOkanlWW_ZCgZIzck9wvq_GWE01TvevzcjD2f8oVZ41z8",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQAC_K8qXRakzEh41j9TC1SChkms0bErbpcFVmfjLyV9cSy_u-m04AcHkYgE4bCjlbhW39kWSnUxvKe0kPVSot_G4F6Y57D3qxmWtKcywJD3ISK17efvrRC",
           "rating": 4.6,
           "reviews": 17
         },
@@ -927,28 +936,15 @@
           "price": 599.99,
           "link": "https://www.google.com/search?ibp=oshop&q=Bushnell Pro X3 rangefinder&prds=productid:15040168749590720568,headlineOfferDocid:15040168749590720568,imageDocid:12948025819067481303,rds:PC_15552617238531330470|PROD_PC_15552617238531330470,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": true,
-          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRXiVTVtQQ3wQzP0OZGDeZPIuWSBYFBBdYtGv1hJ6IEfyerzPXimhZuPLJNsSOrBQfYlOBqMVQwi2rbnTDmnfsdI6ACde847NHVxNnoWw6CjdASpo-FiU16",
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR5VUROhVBbDdhcpZMaYuKq3opdWVjNBZwg0dM03ZGUWjHaCtWsQVfEcD8IBlON4YuP5qyZBBieBILfK7VPGePmEVLRjXCbua04th4N1UdhHjj69krA7A73",
           "rating": 4.6,
           "reviews": 17
-        },
-        {
-          "store": "GoSupps.com",
-          "price": 904.99,
-          "link": "https://www.google.com/search?ibp=oshop&q=Bushnell Pro X3 rangefinder&prds=catalogid:13323387907991822941,productid:3291238036978004457,headlineOfferDocid:18059943607150322637,imageDocid:3419520640294484803,gpcid:15067565407020615962,mid:576462563302582855,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": false,
-          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR3FWyZmcmPa4wjjVa2Uzy_qFDMtIxuAyd4z5NWwdbs9LMOe5yVqErc2fURz8biOTvxMy9S5Gj1rJUnAn9kCgYeIVufJuuwI3fwN8SBbHBkP8aDX9uwOD4Hcw",
-          "rating": null,
-          "reviews": null
         }
       ],
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR4PHsLB5FgGrVZGJIEfaJQzqURK5Q0vz03ONwH5nrBp5j-UMuaxXAEc9xYBZnNRWct_om3-5EY7_H2m2dv8PFhHrhFerJ3sGCQdC6On4PjwqKOyVBXNNwK9qA",
-      "rating": 4.0,
-      "reviews": 338,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQonSc_7XpnG4hMjhyP5r6mMLyT51lRd5QgXutdQt3zZb73bYq5XU7KRRFJtagDXUyEb1wdSuPSNM2J8e5EvQKQ4QkRCK3e-M_NVsLN6rnvufEY9eBX72lecQ",
+      "rating": 4.1,
+      "reviews": 356,
       "history": [
-        {
-          "d": "2026-10-21",
-          "p": 614.99
-        },
         {
           "d": "2026-10-22",
           "p": 614.99
@@ -1036,6 +1032,10 @@
         {
           "d": "2026-11-19",
           "p": 464.0
+        },
+        {
+          "d": "2026-11-20",
+          "p": 463.0
         }
       ]
     },
@@ -1107,10 +1107,6 @@
       "reviews": 14,
       "history": [
         {
-          "d": "2026-10-21",
-          "p": 119.99
-        },
-        {
           "d": "2026-10-23",
           "p": 149.99
         },
@@ -1174,71 +1170,67 @@
       "name": "FootJoy StaSof Glove",
       "par": 25,
       "summary": "",
-      "updated": "2026-11-18T18:07:08+00:00",
+      "updated": "2026-11-20T17:50:27+00:00",
       "offers": [
         {
-          "store": "Golf Superstore",
-          "price": 14.95,
-          "link": "https://www.google.com/search?ibp=oshop&q=FootJoy StaSof golf glove&prds=catalogid:550825117180415554,productid:9591048384232429233,headlineOfferDocid:13515896576447921922,imageDocid:12368234347799748685,rds:PC_6744289143115673632|PROD_PC_6744289143115673632,gpcid:9135558484641343329,pvt:hg&hl=en&gl=us&udm=28",
+          "store": "FootJoy",
+          "price": 21.95,
+          "link": "https://www.google.com/search?ibp=oshop&q=FootJoy StaSof golf glove&prds=productid:5065914990266587881,headlineOfferDocid:5065914990266587881,imageDocid:10612932823606580559,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": true,
-          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRzHk8i9vvT3BTrweKyOwxuz7hy2tgXy7SXs3klGa4pHbMdga90aaB_vJIaRIydxUGsS0LOFZoLbecOuXgabV_BVIFVTAhncw",
-          "rating": 5.0,
-          "reviews": 954
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTDRXfkwwrukZqdM9jOPUcI_FSDgIi_mVl4d-_hGkO8vgIK4GXCEsahi3fxH_Dry0nnmD_WdRpMu4tMnRQBf37AUpxta4hVFhKc050ajATDSAYkQK-BkS-S",
+          "rating": null,
+          "reviews": null
         },
         {
-          "store": "eBay - patito.16",
-          "price": 17.0,
-          "link": "https://www.google.com/search?ibp=oshop&q=FootJoy StaSof golf glove&prds=catalogid:3434167714512229360,productid:4594035416324346,headlineOfferDocid:14043314214534681835,imageDocid:17789381895718672699,rds:PC_8051981989923029543|PROD_PC_8051981989923029543,gpcid:8051981989923029543,mid:576462890276701706,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": true,
-          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcStJK5K44Et6XQvS86Itz0hFwMhxllBfcdMXdSgEcLmFD1X2uCK2J_JgQDnzMsFDSS7PHEz_Vrlj-TlQRZqW2kAKRMhUacaTuBxEnBQkaafE2t498fRXqmG",
-          "rating": 3.0,
-          "reviews": 112
+          "store": "Golf Country Online",
+          "price": 21.99,
+          "link": "https://www.google.com/search?ibp=oshop&q=FootJoy StaSof golf glove&prds=productid:15522279752400736902,headlineOfferDocid:15522279752400736902,imageDocid:10173672279855183541,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": false,
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRnXHgbRf52j8CJNyIlPI_lhI7Fux96umwzFpNA7KC7NrDeF4w0cfRFVmutncpeqOcIHK9Py5nqfPECcFr19F6_aKp5Kc6qy7_d_XEBIY7NbaihyGqn6QqY",
+          "rating": null,
+          "reviews": null
         },
         {
-          "store": "2nd Swing Golf",
+          "store": "RELYmedia",
+          "price": 22.4,
+          "link": "https://www.google.com/search?ibp=oshop&q=FootJoy StaSof golf glove&prds=productid:11045028469719072606,headlineOfferDocid:11045028469719072606,imageDocid:1908441194534637613,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": true,
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT0UvEooJ4VzywEVFTgT5_7mkuyDOYSzpLpHcQHnpuEFQo41pJm36rlsLFcnSmDN6q21WQYrU0ihjz-bEfsZQMRzYIaYZv86wvMfjmG1ow",
+          "rating": null,
+          "reviews": null
+        },
+        {
+          "store": "Fairway Golf USA",
+          "price": 23.95,
+          "link": "https://www.google.com/search?ibp=oshop&q=FootJoy StaSof golf glove&prds=catalogid:7670756861999355560,productid:5057258318939958949,headlineOfferDocid:11754833269025117674,imageDocid:10653811147233220336,rds:PC_9408551530773713433|PROD_PC_9408551530773713433,gpcid:7165774849281532902,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": true,
+          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRibxZT4HQvYIW0Fk29q738rLsJoFfbsUlq-hmZCbs99WIvO177xtSXnPn8d0IzxdN-gcl_81zSjnuXc19N4EkNfpFsB9DoGhGubdt6xlxFjqLNgrzW0Qbh",
+          "rating": 4.8,
+          "reviews": 144
+        },
+        {
+          "store": "ShopGolfGuys",
           "price": 23.99,
-          "link": "https://www.google.com/search?ibp=oshop&q=FootJoy StaSof golf glove&prds=catalogid:12602571159774635343,productid:1136975619849568827,headlineOfferDocid:1619815935353949789,imageDocid:5473180685030772064,rds:PC_12910671095470642932|PROD_PC_12910671095470642932,gpcid:12910671095470642932,mid:576462897995364647,pvt:hg&hl=en&gl=us&udm=28",
+          "link": "https://www.google.com/search?ibp=oshop&q=FootJoy StaSof golf glove&prds=productid:16083105717958529067,headlineOfferDocid:16083105717958529067,imageDocid:10360535599240803570,rds:PC_6744289143115673632|PROD_PC_6744289143115673632,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": false,
-          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR0EcZqwsRpmjq2oh97TOjPnpAqMRt4SAp-sglo92jAA7VfrKFmVlPPb6vu9e_5Ku-7oj7MBiJXWJc7OMPhsn0V4Xrn03fC_ATb1ge2Xt2NdOxqLtUcLDBbYw",
-          "rating": 4.5,
-          "reviews": 866
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS1oxDPn71Bj7leb0xuFz1w4fImysnrUpQ7_s-KbkMQYG089zgwS9tWvg2YjQePbERLFNROtK53ea9kwJaR-VThm3RqHeON-g",
+          "rating": 4.7,
+          "reviews": 1100
         },
         {
-          "store": "The Golf Guys",
-          "price": 26.99,
-          "link": "https://www.google.com/search?ibp=oshop&q=FootJoy StaSof golf glove&prds=catalogid:3859821289815610460,productid:18056876256688597879,headlineOfferDocid:16003255976680975070,imageDocid:17057880626796803485,rds:PC_9408551530773713433|PROD_PC_9408551530773713433,gpcid:9408551530773713433,mid:576462913612008565,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": true,
-          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSvAn9Wvh_bwLRL2Pg5QDLOM6J-65YphX-mNR6yI0_iW7m2HR3RI4_ZAGeRpaYtmMHF-hkVHS3cmx7EXvZYu8DQrRa5BT8rsy1psHQc52TJuChRyI2KZz4-og",
-          "rating": 3.6,
-          "reviews": 98
-        },
-        {
-          "store": "The Golf Store by All Square",
-          "price": 28.79,
-          "link": "https://www.google.com/search?ibp=oshop&q=FootJoy StaSof golf glove&prds=productid:13112993383571702319,headlineOfferDocid:13112993383571702319,imageDocid:14536788377178989377,rds:PC_6744289143115673632|PROD_PC_6744289143115673632,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": false,
-          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTTbDtfmcmPcRitDa-iSapg1G42ZMBGHASbOGigS6cHv-L195LJn96bXVin9nGNuopFjy_O9lFzRlZT2P_dl_Wm9lhJWPvZSQDfQFOIAmeLDqiqlfc0_iilJ-c-",
-          "rating": 3.8,
-          "reviews": 952
-        },
-        {
-          "store": "Worldwide Golf Shops",
+          "store": "GolfBags.com",
           "price": 28.95,
-          "link": "https://www.google.com/search?ibp=oshop&q=FootJoy StaSof golf glove&prds=catalogid:4435231191910184248,productid:14889374862492744249,headlineOfferDocid:708916799649155386,imageDocid:8676697214084921777,rds:PC_6744289143115673632|PROD_PC_6744289143115673632,gpcid:9135558484641343329,pvt:hg&hl=en&gl=us&udm=28",
+          "link": "https://www.google.com/search?ibp=oshop&q=FootJoy StaSof golf glove&prds=productid:14308167338065714573,headlineOfferDocid:14308167338065714573,imageDocid:1589284956839521143,rds:PC_9408551530773713433|PROD_PC_9408551530773713433,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": true,
-          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTB_KykAyxNerE1dlnF6idCBI-HRK56OzHwiUZ6G8Y7yNAPxofHp2P9S1uP7wHG3ceaeox9L_iel22g6nB5jnd7p564GXRA",
-          "rating": 5.0,
-          "reviews": 933
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTB9lxzpupIK8YDn--1W6ExswPxTP1b4BJxyE5bNTFraq7d2lmsaAz5FYdmoDIFin9vhEVBSGXpMYtiX8u5tXI9DrtzW0d5Gg",
+          "rating": 4.7,
+          "reviews": 126
         }
       ],
-      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRzHk8i9vvT3BTrweKyOwxuz7hy2tgXy7SXs3klGa4pHbMdga90aaB_vJIaRIydxUGsS0LOFZoLbecOuXgabV_BVIFVTAhncw",
-      "rating": 4.5,
-      "reviews": 3915,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTDRXfkwwrukZqdM9jOPUcI_FSDgIi_mVl4d-_hGkO8vgIK4GXCEsahi3fxH_Dry0nnmD_WdRpMu4tMnRQBf37AUpxta4hVFhKc050ajATDSAYkQK-BkS-S",
+      "rating": 4.7,
+      "reviews": 1370,
       "history": [
-        {
-          "d": "2026-10-21",
-          "p": 20.0
-        },
         {
           "d": "2026-10-23",
           "p": 14.95
@@ -1286,6 +1278,10 @@
         {
           "d": "2026-11-18",
           "p": 14.95
+        },
+        {
+          "d": "2026-11-20",
+          "p": 21.95
         }
       ]
     },
@@ -1295,14 +1291,14 @@
       "name": "Garmin Approach S70 GPS Watch",
       "par": 600,
       "summary": "",
-      "updated": "2026-11-18T18:07:08+00:00",
+      "updated": "2026-11-20T17:50:27+00:00",
       "offers": [
         {
           "store": "eBay",
-          "price": 450.0,
+          "price": 400.0,
           "link": "https://www.google.com/search?ibp=oshop&q=Garmin Approach S70 golf watch&prds=productid:3779046321663320925,headlineOfferDocid:3779046321663320925,imageDocid:18352230576901955818,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": false,
-          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcScwnUcs2v1_35p9ULJ43UZFfeFhxtaYO0ZiSEQRkLsV1kSweFvjEsuoluDV5hDLUPcI0vENGd8IodwSvrpUpdOpiNax99hOat5B77l1Z4",
+          "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSNVbp0ZJcEPcZzrbdJZNAGzL4S2QPNSQToRNUihCgLfRYGHqx5oBksyBUwNHB4L1-15IHV-U-hKIYbWVa4foClNf7SXdLyMiv865we05E",
           "rating": null,
           "reviews": null
         },
@@ -1311,34 +1307,25 @@
           "price": 599.99,
           "link": "https://www.google.com/search?ibp=oshop&q=Garmin Approach S70 golf watch&prds=productid:12768327428082510333,headlineOfferDocid:12768327428082510333,imageDocid:71877046243881020,rds:PC_2357813719463204846|PROD_PC_2357813719463204846,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": true,
-          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQAe8UC2aOQQKXkTWEWXq0lrE-gpFrEgVOxWhwGHjWBnIY-9c2aAG3iYT0FnvYrTjg_sIqlruHdpD5dqb8otI6xW0769iqbNA6zVxbN-Ng-mMbpt78oJjdvGQ",
+          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS3XJbnWCwIU5JP5tZ51kPWCSsBE8NS1CV7sMh3IaGJkZm1DeAlNs_MIWyiYaazyDnZkA6Y9HWCxz276-U8zMDk_m6YPVJqW_7fa0vCA7CYmAU_zpWaDRWDdQ",
           "rating": 2.7,
           "reviews": 1800
         },
         {
           "store": "saltandseascuba.com",
           "price": 649.99,
-          "link": "https://www.google.com/search?ibp=oshop&q=Garmin Approach S70 golf watch&prds=productid:10234335075146021059,headlineOfferDocid:10234335075146021059,imageDocid:116702090186497765,pvt:hg&hl=en&gl=us&udm=28",
+          "link": "https://www.google.com/search?ibp=oshop&q=Garmin Approach S70 golf watch&prds=productid:9723496527213562879,headlineOfferDocid:9723496527213562879,imageDocid:116702090186497765,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": false,
-          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqdgPkzCwZ3jWzJW_NXqVfQ3JwF_-w8UQynKvUr8cxVDfizQFIuiG2C8MTXxeG65ddA3sbyrDrq2ktMtl0qgW4Ou1Znohlk8_0yHV0qKh9kPL0CYVEcOgWT5SV",
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQBZysmeGimqfjSguniq6Gt-WooOiOXgGmfL-UoWF3SmfcwKMyNqmPfQP-5X6mDnU0_IU4Fj5WM7nE3iybjD-Hpiaoxd899gd3jZRPQdw-Bp5eyYZkoCArB2zmC",
           "rating": null,
           "reviews": null
-        },
-        {
-          "store": "eBay - 6ave",
-          "price": 679.95,
-          "link": "https://www.google.com/search?ibp=oshop&q=Garmin Approach S70 golf watch&prds=catalogid:7233013077073139117,productid:9414034770801894098,headlineOfferDocid:8092992737577328476,imageDocid:15234164974474672632,rds:PC_2357813719463204846|PROD_PC_2357813719463204846,gpcid:12224134774887395381,mid:576462916258276602,pvt:hg&hl=en&gl=us&udm=28",
-          "free_shipping": false,
-          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR342px_CO4_74SIETAK4j_rUZilofHdfhlhh13b0U9y4Mro4RuEEx8L1BuS8iN2XZtshCifzeOYDIpV8zk_TzhB0RPIG9EG4vpvQvDmCn8i7tQG0uPu5B0",
-          "rating": 4.7,
-          "reviews": 1800
         },
         {
           "store": "Best Buy",
           "price": 689.95,
           "link": "https://www.google.com/search?ibp=oshop&q=Garmin Approach S70 golf watch&prds=productid:16602565716687982563,headlineOfferDocid:16602565716687982563,imageDocid:7935700817242503779,rds:PC_16538948809241539583|PROD_PC_16538948809241539583,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": true,
-          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT8GUbvJ7SqcpVI3QJoWTrQuzDPD6Te-kpCaz_bW5mBgIDbmmIlZJQZHFceSptV7neOAfTFMYO0ZP-e3gg3PuTdGjRtTTFpq70pjC21Is3jRPNU6xXBw0llaA",
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQLPg7uzzDRbytK2jH9R5wnIoR8tuVr-KyilMUd6QWCxpics_z-0HuwY0VVg0Xa5sDHU9UIaxdoJm-yv471i4b2FKHECwQJ_GFTwZ0s6cwhuEV_7cwztkJa_Q",
           "rating": 3.2,
           "reviews": 106
         },
@@ -1347,14 +1334,23 @@
           "price": 715.0,
           "link": "https://www.google.com/search?ibp=oshop&q=Garmin Approach S70 golf watch&prds=catalogid:12366531136331495383,productid:5131683742887995864,headlineOfferDocid:18414254816776827343,imageDocid:5851133434863828232,rds:PC_2357813719463204846|PROD_PC_2357813719463204846,gpcid:2357813719463204846,mid:576462745574689345,pvt:hg&hl=en&gl=us&udm=28",
           "free_shipping": true,
-          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR88gdUbe89nMjx925L5tO-QWRcoePfVEOdDx_A9yxI7-0xOSI9xiM9TbXspCQhImdlEwgNXFYJGVuGz-VggjisxbWB09YF",
+          "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT0TNYbAjgfaqQrW6WLZO-gi3xSchDWCTNT_HXTwBx4qTNpH7eL6P0KCAfjn8HVcUnD5miPrrUB5cNnreInS-gEi85UzEydGIROQtMgvXvjC1PTIAWJTbkh",
           "rating": 3.2,
           "reviews": 1700
+        },
+        {
+          "store": "eBay - nikonikoya-2525",
+          "price": 859.01,
+          "link": "https://www.google.com/search?ibp=oshop&q=Garmin Approach S70 golf watch&prds=productid:4931259101716465489,headlineOfferDocid:4931259101716465489,imageDocid:10811399443449497605,pvt:hg&hl=en&gl=us&udm=28",
+          "free_shipping": true,
+          "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQauIVjI8SmXKhg5fjbblLD-TKid3T01kncAMTunWSNJdZH-jZvNBXXRQjdJCaWVE_6aCFyM-9K9ZHyysvsLxDaVapK1zDXP4F94LSd2y92dnlnIJCbz1XsCA",
+          "rating": null,
+          "reviews": null
         }
       ],
-      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcScwnUcs2v1_35p9ULJ43UZFfeFhxtaYO0ZiSEQRkLsV1kSweFvjEsuoluDV5hDLUPcI0vENGd8IodwSvrpUpdOpiNax99hOat5B77l1Z4",
-      "rating": 3.5,
-      "reviews": 5406,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSNVbp0ZJcEPcZzrbdJZNAGzL4S2QPNSQToRNUihCgLfRYGHqx5oBksyBUwNHB4L1-15IHV-U-hKIYbWVa4foClNf7SXdLyMiv865we05E",
+      "rating": 3.0,
+      "reviews": 3606,
       "history": [
         {
           "d": "2026-10-22",
@@ -1411,6 +1407,10 @@
         {
           "d": "2026-11-18",
           "p": 450.0
+        },
+        {
+          "d": "2026-11-20",
+          "p": 400.0
         }
       ]
     },
